@@ -1,0 +1,37 @@
+.list-container {
+    width: 290px;
+    margin-top: 20px;
+}
+
+.list-title {
+    background-color: blue;
+    text-align: center;
+}
+
+.list {
+    width: 290px;
+    padding: 0;
+    text-align: center;
+
+}
+
+.list-item {
+    list-style: none;
+    border-radius: 5px;
+    margin: 15px 0;
+    padding: 5px;
+    width: 280px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.list-item:hover {
+    list-style: none;
+    border-radius: 5px;
+    margin: 15px 0;
+    padding: 5px 0;
+    width: 280px;
+    text-align: center;
+    background-color: #695d47;
+    color: #FFF2DB;
+}

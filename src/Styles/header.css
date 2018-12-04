@@ -1,0 +1,25 @@
+.main-header {
+    display: flex;
+    align-items: baseline; 
+    justify-content: space-between; 
+    align-content: center;
+    height: 150px;
+    background-color: #FC7138;
+    padding: 20px;
+}
+
+.header-title {
+    color: #00a07d;
+    padding: 15px 0 0 15px;
+}
+
+.menu {
+    display: inline-flex;
+    list-style-type: none;
+    justify-content: space-around;
+    cursor: pointer;
+}
+
+.item {
+    margin: 0 20px;
+}

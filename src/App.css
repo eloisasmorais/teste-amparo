@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    color: #695d47;
+    font-size: 20px;
+    background-color: rgb(250, 242, 229);
+}
+
+.title {
+    color: #FC7138;
+    padding-top: 10px;
+    padding-left: 15px;
+}
+
+.p-text {
+    padding: 10px;
+}

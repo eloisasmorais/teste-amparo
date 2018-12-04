@@ -1,0 +1,42 @@
+.container-table {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    width: 900px;
+    margin: 0px auto;
+    border: 1px solid #695d47;
+    border-radius: 0 0 15px 15px;
+}
+
+.titles {
+    display: flex;
+    justify-content: space-around;
+    width: 900px;
+    margin: 0px auto;
+    background-color: #695d47;
+    border: 1px solid #695d47;
+    border-radius: 15px 15px 0 0;
+}
+
+.table-title {
+    text-align: center;
+    height: 30px;
+    color: #FFF2DB;
+    width: 100%;
+}
+
+.table {
+    width: 290px;
+    padding: 0;
+    text-align: center;
+    
+}
+
+.table-border {
+    border-right: 1px solid #FC7138;
+}
+
+.table-item {
+    margin: 15px 0;
+    list-style: none;
+}
